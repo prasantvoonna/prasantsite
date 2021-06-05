@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/prasantsite" mode="merge"/>
+    <filter root="/content/prasantsite" mode="merge"/>
+    <filter root="/content/dam/prasantsite/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/prasantsite" mode="merge"/>
+</workspaceFilter>
